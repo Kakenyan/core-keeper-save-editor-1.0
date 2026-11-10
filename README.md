@@ -1,5 +1,7 @@
 # Core Keeper Save Editor
 
+https://kakenyan.github.io/core-keeper-save-editor-1.0/
+
 A simple browser based **Save File Editor** for **Core Keeper**.
 
 > **This is a community-maintained fork.** The original project by
